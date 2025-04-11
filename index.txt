@@ -4,7 +4,7 @@ Homeverse - Find your dream house
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-info@homeverse.com
+mcgmsolutions@gmail.com
 
 <ion-icon name="location-outline"></ion-icon>
 15/A, Nest Tower, NYC
